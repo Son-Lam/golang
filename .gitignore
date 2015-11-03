@@ -8,6 +8,9 @@ bin
 _obj
 _test
 
+#temp file
+*.*~
+
 # Architecture specific extensions/prefixes
 *.[568vq]
 [568vq].out
